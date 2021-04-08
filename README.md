@@ -34,6 +34,8 @@
     <img align="left" alt="Babel" width="80px" src="https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=yellow" />
     <img align="left" alt="NodeJS" width="90px" src="https://img.shields.io/badge/NodeJS-7CB701?style=for-the-badge&logo=node.js&logoColor=313131" />
     <img align="left" alt="AWS" width="75px" src="https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-AWS&logoColor=FF9800" />
+<br/>
+<br/>
     <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
