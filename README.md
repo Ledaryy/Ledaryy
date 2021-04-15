@@ -18,7 +18,7 @@
     <img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="left" alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="left" alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="left" alt="Python" width="96px" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=grey" />
+    <img align="left" alt="Python" width="96px" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue" />
     <img align="left" alt="Django" width="90px" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="left" alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <br/>
