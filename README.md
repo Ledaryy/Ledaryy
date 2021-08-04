@@ -1,6 +1,6 @@
 <br/>
   <h1 align="center">
-     Hi! I am a Junior Python/Django Developer ! 
+     Hi! I am a Junior Software Developer ! 
   </h1>
 <br/>
 
