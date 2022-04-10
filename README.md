@@ -6,7 +6,7 @@
 
   - 👨🏽‍💻 Want to be a Full Stack Developer
   - ⚡ I am currently working on some projects in web-dev
-  - 📌 And I am currently lerning some stuf related to devops, and a bit of game-dev
+  - 📌 And I am currently learning some stuff related to devops, networking and a bit of game-dev
   - 🛠️ Also there is some of my projects, [Interactive London Underground Map](https://github.com/Ledaryy/london_underground) and [Discord Bot](https://github.com/Ledaryy/Discord-bot)
   - ✅ Projects, which I have finished or I'm not currently working on: [Network](https://github.com/Ledaryy/Simple-twitter), [CS50 projects](https://github.com/Ledaryy/CS50-projects)
   - ✏️ You can reach me on: <a href="mailto:andras.kulisov@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
