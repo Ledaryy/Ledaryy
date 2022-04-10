@@ -1,15 +1,15 @@
 <br/>
   <h1 align="center">
-     Hi! I am a Junior Software Developer ! 
+     Hi! I am a Python Software Developer ! 
   </h1>
 <br/>
 
-  - 👨🏽‍💻 Want to be a Full Stack Developer.
-  - ⚡ I am Currently learning, working my skills in web development.
-  - 📌 I am currently contributing to the open source projects
-  - 🛠️ Also I am developing my own projects, such as [Interactive London Underground Map](https://github.com/Ledaryy/london_underground) and [Discord Bot](https://github.com/Ledaryy/Discord-bot)
+  - 👨🏽‍💻 Want to be a Full Stack Developer
+  - ⚡ I am currently working on some projects in web-dev
+  - 📌 And I am currently lerning some stuf related to devops, and a bit of game-dev
+  - 🛠️ Also there is some of my projects, [Interactive London Underground Map](https://github.com/Ledaryy/london_underground) and [Discord Bot](https://github.com/Ledaryy/Discord-bot)
   - ✅ Projects, which I have finished or I'm not currently working on: [Network](https://github.com/Ledaryy/Simple-twitter), [CS50 projects](https://github.com/Ledaryy/CS50-projects)
-  - ✏️ You can reach me : <a href="mailto:andras.kulisov@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  - ✏️ You can reach me on: <a href="mailto:andras.kulisov@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br/>
   
