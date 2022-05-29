@@ -18,11 +18,9 @@
     <img align="left" alt="Django" width="96px" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="left" alt="PostgreSQL" width="120px" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="left" alt="Docker" width="95px" src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=099CEC" />
-    <img align="left" alt="Git" width="70px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="left" alt="AWS" width="75px" src="https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-AWS&logoColor=FF9800" />
     <img align="left" alt="Azure" width="85px" src="https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoftazure&logoColor=0085CF" />
     <img align="left" alt="Ubuntu" width="95px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=E75C25" />
-    <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     <br/>
     <h1 align="center"></h1>
     <img align="left" alt="HTML5" width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,9 +33,10 @@
     <br/>
     <h1 align="center"></h1>
     <img align="left" alt="Visual Studio Code" width="90px" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img align="left" alt="Git" width="70px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="left" alt="GitHub" width="95px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="left" alt="BitBucket" width="100px" src="https://img.shields.io/badge/bitbucket-FFFFFF?style=for-the-badge&logo=bitbucket&logoColor=2684FF" />
     <img align="left" alt="Jira" width="70px" src="https://img.shields.io/badge/jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=0F67DD" />
     <img align="left" alt="Postman" width="100px" src="https://img.shields.io/badge/postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-    
+    <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
