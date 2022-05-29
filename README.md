@@ -27,13 +27,14 @@
     <img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="left" alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="left" alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="left" alt="GraphQl" width="96px" src="https://img.shields.io/badge/graphql-FFFFFF?style=for-the-badge&logo=graphql&logoColor=E10098" />
     <img align="left" alt="NodeJS" width="90px" src="https://img.shields.io/badge/NodeJS-7CB701?style=for-the-badge&logo=node.js&logoColor=313131" />
     <img align="left" alt="Babel" width="80px" src="https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=yellow" />
-    <img align="left" alt="WebPack" width="100px" src="https://img.shields.io/badge/WebPack-F7F7F7?style=for-the-badge&logo=webpack&logoColor=1579C1" />
     <br/>
     <h1 align="center"></h1>
+    <img align="left" alt="WebPack" width="100px" src="https://img.shields.io/badge/WebPack-F7F7F7?style=for-the-badge&logo=webpack&logoColor=1579C1" />
     <img align="left" alt="Visual Studio Code" width="90px" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="left" alt="Git" width="70px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="left" alt="Git" width="66px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="left" alt="GitHub" width="95px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="left" alt="BitBucket" width="100px" src="https://img.shields.io/badge/bitbucket-FFFFFF?style=for-the-badge&logo=bitbucket&logoColor=2684FF" />
     <img align="left" alt="Jira" width="70px" src="https://img.shields.io/badge/jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=0F67DD" />
