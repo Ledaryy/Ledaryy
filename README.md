@@ -1,10 +1,9 @@
 <br/>
   <h1 align="center">
-     Hi! I am a Python Software Developer ! 
+     Hi! I am a Full Stack Software Developer ! 
   </h1>
 <br/>
 
-  - 👨🏽‍💻 Want to be a Full Stack Developer
   - ⚡ I am currently working on some projects in web-dev
   - 📌 And I am currently learning some stuff related to devops, networking and a bit of game-dev
   - 🛠️ Also there is some of my projects, [Interactive London Underground Map](https://github.com/Ledaryy/london_underground) and [Discord Bot](https://github.com/Ledaryy/Discord-bot)
